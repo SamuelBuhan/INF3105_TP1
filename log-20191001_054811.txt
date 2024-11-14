@@ -1,0 +1,69 @@
+#Machine :  linux-VirtualBox
+#CPU : Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+#Date début : 20191001_054811
+#Limite de unlimited secondes par test
+#
+Taille des fichiers source :
+   41   108   780 point.cpp
+  248   483  6085 polygone.cpp
+  130   262  4100 tp1.cpp
+   31    63   540 point.h
+   42   103   984 polygone.h
+  208   512  5132 tableau.h
+  700  1531 17621 total
+#
+Carte    	Taille	Args	Superficie	Opt?	CPU	Mém.(k)
+carte00.txt	3	1	125	OK	0.00	3712k
+carte00.txt	3	2	aire empire:225	Echec	0.00	3648k
+carte00.txt	3	2-100	aire empire:225	Echec	0.00	3700k
+carte00.txt	3	2-50	aire empire:225	Echec	0.00	3660k
+carte00.txt	3	2-10	aire empire:150	Echec	0.00	3664k
+carte00.txt	3	2-1	aire empire:0	Echec	0.00	3692k
+carte00.txt	3	3	aire empire:275	Echec	0.00	3660k
+carte01.txt	3	1	125	OK	0.00	3712k
+carte01.txt	3	2	aire empire:170	Echec	0.00	3660k
+carte01.txt	3	2-1	aire empire:165	Echec	0.00	3768k
+carte02.txt	26	1	46009	Echec	0.00	3764k
+carte02.txt	26	2	aire empire:64459	Echec	0.01	3744k
+carte02.txt	26	2-500	aire empire:62839	Echec	0.02	3656k
+carte02.txt	26	2-10	aire empire:19920	Echec	0.02	3744k
+carte02.txt	26	3	aire empire:81289	Echec	0.89	3660k
+carte02.txt	26	3-100	aire empire:46450	Echec	0.50	3744k
+carte02.txt	26	4-200	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3744k
+carte02.txt	26	5-200	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3776k
+carte03.txt	20	1	6560	OK	0.00	3704k
+carte03.txt	20	2	aire empire:13120	Echec	4.57	3704k
+carte03.txt	20	2-500	aire empire:13120	Echec	4.44	3764k
+carte03.txt	20	2-10	aire empire:0	Echec	4.48	3804k
+carte03.txt	20	3		Echec	79.77	3500k
+carte03.txt	20	3-100	aire empire:0	Echec	79.20	3768k
+carte03.txt	20	4-200	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3704k
+carte03.txt	20	5-200	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3756k
+carte04.txt	10	1	1.002e+06	OK	0.02	4268k
+carte04.txt	10	2-500		Echec	79.85	4172k
+carte05.txt	50	1	1.6008e+07	OK	0.53	14168k
+carte05.txt	50	2-500		Echec	79.96	14312k
+carte06.txt	105	1	838502	Echec	0.00	3772k
+carte06.txt	105	2-5000	aire empire:1558155	Echec	1.50	3768k
+carte06.txt	105	3-4000		Echec	79.99	3620k
+carte06.txt	105	4-3000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3600k
+carte06.txt	105	5-2000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3756k
+carte06.txt	105	7-2000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3660k
+carte06.txt	105	8-2000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3736k
+carte06.txt	105	9-2000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3752k
+carte06.txt	105	10-2000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3756k
+carte06.txt	105	11-2000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3756k
+carte06.txt	105	12-2000	Ce programme ne supporte pas 4 régions ou plus!	?	0.00	3828k
+carte07.txt	496	1	2.44534e+06	Echec	0.00	4004k
+carte07.txt	496	2	aire empire:4595487	Echec	12.79	3912k
+carte07.txt	496	2-10	aire empire:2214696	Echec	12.62	3888k
+carte07.txt	496	3-2000		Echec	80.10	3748k
+carte07.txt	496	4-10	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3868k
+carte07.txt	496	4-100	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3824k
+carte08.txt	55	1	1.3125e+06	OK	0.00	3856k
+carte08.txt	55	2-10	aire empire:2465803	Echec	10.90	3784k
+carte08.txt	55	3-10		Echec	79.95	3664k
+carte08.txt	55	3-500		Echec	79.96	3708k
+carte08.txt	55	4-10	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3820k
+carte08.txt	55	4-500	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3796k
+carte08.txt	55	4-20000	Ce programme ne supporte pas 4 régions ou plus!	Echec	0.00	3836k

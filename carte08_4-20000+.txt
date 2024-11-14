@@ -1,0 +1,1 @@
+Ce programme ne supporte pas 4 régions ou plus!
